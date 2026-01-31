@@ -64,3 +64,4 @@ gh repo create forever-faded-app --public --source=. --push
 git config --global user.name "Your Name"
 git config --global user.email "your@email.com"
 ```
+"# forever-faded-app" 
