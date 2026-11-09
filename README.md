@@ -2,6 +2,8 @@
 
 Barbershop management app — login as **Client**, **Barber**, or **Owner** and use the demo UI.
 
+Created by **Joseph J. Henderson** · Layer One IT Consultants
+
 ## Run the app
 
 1. **Install Node.js** (if needed): https://nodejs.org/ (LTS)
